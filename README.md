@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Web%20Developer&descSize=19&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Desarrollo+Web+%F0%9F%92%BB;Backend+%7C+Frontend+%7C+Bases+de+Datos;Construyendo+ideas+con+c%C3%B3digo+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Frontend+%26+Backend+Development+%F0%9F%92%BB;Web+%26+Mobile+Applications;Building+Digital+Experiences+%F0%9F%92%9C" />
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 ¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora de software apasionada por la tecnología y la creación de soluciones digitales.
 
-Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente continúo mi formación profesional en **Desarrollo y Gestión de Software**.
+Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente continúo mi formación profesional en la **Licenciatura en Desarrollo y Gestión de Software**.
 
-Me interesa el desarrollo de aplicaciones web y móviles, la gestión de bases de datos y la construcción de sistemas funcionales, desde el backend hasta las interfaces de usuario.
+Tengo experiencia en el desarrollo de aplicaciones web, diseño e integración de bases de datos, desarrollo backend y construcción de interfaces de usuario.
 
-Me gusta aprender nuevas tecnologías, experimentar con proyectos y transformar ideas en soluciones reales. 💜
+Me interesa crear soluciones funcionales, explorar nuevas tecnologías y transformar ideas en proyectos digitales.
 
 ---
 
@@ -78,6 +78,7 @@ Sistema web para la gestión y seguimiento de pacientes.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">💻 Codebase</h3>
@@ -89,7 +90,7 @@ Aplicación móvil de apoyo para estudiantes de programación.
 - Artículos de estudio mediante API pública.
 - Tablero de metas con almacenamiento local.
 - Chat comunitario en tiempo real.
-- Inicio de sesión con Google.
+- Autenticación con Google.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -99,13 +100,14 @@ Aplicación móvil de apoyo para estudiantes de programación.
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
 
 <h3 align="center">🎮 Mindrot</h3>
 
 <p align="center">
-Videojuego de terror psicológico y supervivencia ambientado en un laboratorio experimental.
+Videojuego de terror psicológico y supervivencia ambientado en un laboratorio experimental. La exploración y los acertijos forman parte de la experiencia.
 </p>
 
 <p align="center">
@@ -125,49 +127,53 @@ Videojuego de terror psicológico y supervivencia ambientado en un laboratorio e
 
 </div>
 
-🎓 **Licenciatura en Desarrollo y Gestión de Software**
+**🎓 Licenciatura en Desarrollo y Gestión de Software**
 
 Universidad Tecnológica del Poniente
 
-2026 – Actualmente
+*Septiembre 2026 – Actualmente*
 
-🎓 **Técnico Superior Universitario en Tecnologías de la Información**
+<br/>
+
+**🎓 Técnico Superior Universitario en Tecnologías de la Información**
 
 Área: Desarrollo de Software Multiplataforma
 
 Universidad Tecnológica del Poniente
 
-2023 – 2026
+*Mayo 2023 – Agosto 2026*
 
 ---
 
 <div align="center">
 
-## ✦ EXPERIENCIA
+## ✦ EXPERIENCIA PROFESIONAL
+
+</div>
 
 **Desarrolladora Junior / Soporte de Software**
 
-MAYAM · Ciudad de México (Modalidad remota)
+**MAYAM** · Ciudad de México · Modalidad remota
 
 *Mayo – Agosto 2025*
 
-Participación en proyectos de desarrollo de software, implementación de interfaces web y mantenimiento de funcionalidades frontend, trabajando en colaboración con un equipo de desarrollo.
+Participación en proyectos de desarrollo de software, implementación de interfaces web y mantenimiento de funcionalidades frontend, colaborando con un equipo de desarrollo.
 
 ---
 
-## ✦ GITHUB ESTADÍSTICAS
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6FB5&icon_color=B388FF&text_color=FFFFFF&hide_border=true&count_private=true" height="165"/>
+## ✦ CONTACTO
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6FB5&text_color=FFFFFF&hide_border=true" height="165"/>
+**¿Tienes alguna propuesta o proyecto? ¡Conectemos!**
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical&background=0D1117&ring=FF6FB5&fire=B388FF&currStreakLabel=FF6FB5&hide_border=true"/>
+<a href="mailto:fernandacoloniamay@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
-
-### ✨ Gracias por visitar mi perfil
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B388FF,100:FF6FB5&height=120&section=footer" width="100%"/>
 
