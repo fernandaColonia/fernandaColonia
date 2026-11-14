@@ -50,27 +50,12 @@ backend con <b>Laravel y PHP</b> e interfaces responsivas con <b>Vue.js, Astro y
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 <td align="center" width="50%">
-<h3>💼 <a href="https://jobhub.utptics.com">JobHub</a></h3>
-<sub>Plataforma de empleo</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
 <h3>📱 <a href="https://github.com/fernandaColonia/JOBHUBSUPERADMINMOVIL">JobHub SuperAdmin Móvil</a></h3>
 <sub>App móvil con dashboard conectada a un backend Laravel y MongoDB</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</td>
-<td align="center" width="50%">
-<h3>🛒 UTP-MARKET</h3>
-<sub>Sitio en PHP con layout de tienda y menú de empresas</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -126,15 +111,6 @@ Desarrollo y mantenimiento de funcionalidades junto a un equipo de software.
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&border_color=B388FF&border_radius=15&bg_color=0d1117&title_color=FF6FB5&text_color=E6EDF3&langs_count=8&locale=es" alt="lenguajes" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandaColonia&bg_color=0d1117&color=FF6FB5&line=B388FF&point=FFFFFF&area=true&area_color=B388FF&hide_border=true&radius=15" alt="actividad" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:6C63FF&height=60&text=Contacto&fontSize=26&fontColor=ffffff&fontAlignY=55" alt="contacto" />
-
-<br/>
-
-<a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
