@@ -165,7 +165,7 @@ Participación en proyectos de desarrollo de software, implementación de interf
 
 ## ✦ CONTACTO
 
-**¿Tienes alguna propuesta o proyecto? ¡Conectemos!**
+
 
 <br/>
 
