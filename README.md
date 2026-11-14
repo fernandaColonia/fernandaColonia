@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20de%20Software%20%7C%20Desarrollo%20Web&descSize=17&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Frontend+%26+Backend+Development+%F0%9F%92%BB;Web+%26+Mobile+Applications;Building+Digital+Experiences+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Desarrollo+Frontend+%26+Backend+%F0%9F%92%BB;Aplicaciones+Web+y+M%C3%B3viles;Creando+soluciones+a+trav%C3%A9s+del+c%C3%B3digo+%F0%9F%92%9C" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Yucatán,_México-FF6FB5?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎓_UTP-B388FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎓_Universidad_Tecnológica_del_Poniente-B388FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -24,15 +24,15 @@
 
 Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente continúo mi formación profesional en la **Licenciatura en Desarrollo y Gestión de Software**.
 
-Tengo experiencia en el desarrollo de aplicaciones web, diseño e integración de bases de datos, desarrollo backend y construcción de interfaces de usuario.
+Cuento con conocimientos en desarrollo de aplicaciones web y móviles, diseño y gestión de bases de datos, programación backend y desarrollo de interfaces de usuario.
 
-Me interesa crear soluciones funcionales, explorar nuevas tecnologías y transformar ideas en proyectos digitales.
+Me interesa crear soluciones tecnológicas funcionales, aprender nuevas herramientas y participar en proyectos que me permitan seguir creciendo profesionalmente.
 
 ---
 
 <div align="center">
 
-## ✦ STACK TECNOLÓGICO
+## ✦ TECNOLOGÍAS Y HERRAMIENTAS
 
 ### Desarrollo web
 
@@ -69,7 +69,7 @@ Sistema web para la gestión y seguimiento de pacientes.
 - Administración de pacientes.
 - Registro de consultas e información médica.
 - Organización de expedientes.
-- Gestión de información mediante operaciones CRUD.
+- Operaciones CRUD para la gestión de información.
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -90,7 +90,7 @@ Aplicación móvil de apoyo para estudiantes de programación.
 - Artículos de estudio mediante API pública.
 - Tablero de metas con almacenamiento local.
 - Chat comunitario en tiempo real.
-- Autenticación con Google.
+- Inicio de sesión con Google.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -107,7 +107,7 @@ Aplicación móvil de apoyo para estudiantes de programación.
 <h3 align="center">🎮 Mindrot</h3>
 
 <p align="center">
-Videojuego de terror psicológico y supervivencia ambientado en un laboratorio experimental. La exploración y los acertijos forman parte de la experiencia.
+Videojuego de terror psicológico y supervivencia ambientado en un laboratorio experimental. Incluye exploración, acertijos y elementos de suspenso.
 </p>
 
 <p align="center">
@@ -164,10 +164,6 @@ Participación en proyectos de desarrollo de software, implementación de interf
 <div align="center">
 
 ## ✦ CONTACTO
-
-
-
-<br/>
 
 <a href="mailto:fernandacoloniamay@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
