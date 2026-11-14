@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/📍_Yucatán,_México-FF6FB5?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🎓_Universidad_Tecnológica_del_Poniente-B388FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=fernandaColonia&label=Visitas&color=6C63FF&style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -31,7 +30,7 @@ backend con <b>Laravel y PHP</b> e interfaces responsivas con <b>Vue.js, Astro y
 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,vuejs,astro,html,css,tailwind,bootstrap&theme=dark&perline=9" alt="web" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,flutter,dart,git,github,godot&theme=dark&perline=7" alt="más" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,godot&theme=dark&perline=5" alt="más" />
 
 <br/><br/>
 
@@ -50,18 +49,14 @@ backend con <b>Laravel y PHP</b> e interfaces responsivas con <b>Vue.js, Astro y
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 <td align="center" width="50%">
-<h3>📱 <a href="https://github.com/fernandaColonia/JOBHUBSUPERADMINMOVIL">JobHub SuperAdmin Móvil</a></h3>
-<sub>App móvil con dashboard conectada a un backend Laravel y MongoDB</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<h3>💻 Codebase</h3>
+<sub>[ESCRIBE AQUÍ QUÉ HACE CODEBASE]</sub>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<h3>🎮 Experimento 07</h3>
-<sub>Videojuego de terror</sub>
+<h3>🎮 Mindrot</h3>
+<sub>Videojuego de terror · Proyecto escolar</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
 </td>
@@ -103,14 +98,12 @@ Desarrollo y mantenimiento de funcionalidades junto a un equipo de software.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:6C63FF&height=60&text=GitHub&fontSize=26&fontColor=ffffff&fontAlignY=55" alt="github" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:6C63FF&height=60&text=Contacto&fontSize=26&fontColor=ffffff&fontAlignY=55" alt="contacto" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&border_color=FF6FB5&border_radius=15&bg_color=0d1117&title_color=FF6FB5&icon_color=B388FF&text_color=E6EDF3&ring_color=FF6FB5&count_private=true&include_all_commits=true&locale=es" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&border_color=B388FF&border_radius=15&bg_color=0d1117&title_color=FF6FB5&text_color=E6EDF3&langs_count=8&locale=es" alt="lenguajes" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandaColonia&bg_color=0d1117&color=FF6FB5&line=B388FF&point=FFFFFF&area=true&area_color=B388FF&hide_border=true&radius=15" alt="actividad" />
+<a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
