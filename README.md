@@ -1,75 +1,97 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=210&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Web%20Full%20Stack%20Junior&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Development&descSize=16&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Frontend+%26+Backend+Development;UI+%2F+UX+%26+Desarrollo+de+Software;Aplicaciones+Web+y+M%C3%B3viles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=700&height=45&lines=Frontend+%26+Backend+Development;UI%2FUX+%26+Software+Engineering;Web+%26+Mobile+Applications;Turning+Ideas+Into+Digital+Solutions" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Yucatán,_México-FF6FB5?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎓_Universidad_Tecnológica_del_Poniente-B388FF?style=for-the-badge&labelColor=0d1117"/>
+<a href="mailto:luisafernandacolonia@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/fernandaColonia">
+<img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Yucatán,_México-FF6FB5?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_Universidad_Tecnológica_del_Poniente-B388FF?style=flat-square"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## ✦ SOBRE MÍ
-
-</div>
+## ✦ Sobre mí | About Me
 
 ¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora web full stack junior.
 
 Soy egresada de **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente estudio la **Licenciatura en Desarrollo y Gestión de Software**.
 
-Cuento con conocimientos en desarrollo de aplicaciones web y móviles utilizando tecnologías como **Laravel, Vue.js, Astro, MySQL y Flutter**.
+Cuento con conocimientos en desarrollo de aplicaciones web y móviles utilizando tecnologías como Laravel, Vue.js, Astro, MySQL y Flutter.
 
-Me interesa el desarrollo de software, la creación de interfaces responsivas y la integración de funcionalidades. Disfruto diseñar y desarrollar proyectos que permitan poner en práctica mis conocimientos y seguir aprendiendo.
+Me interesa el desarrollo de software, la creación de interfaces responsivas y la integración de funcionalidades. Disfruto trabajar en proyectos que me permitan combinar lógica, diseño y tecnología.
 
-Actualmente busco continuar fortaleciendo mis habilidades en ingeniería de software y desarrollo de aplicaciones.
+### Actualmente
 
----
+- Fortaleciendo mis conocimientos en ingeniería de software.
+- Desarrollando aplicaciones web y móviles.
+- Explorando nuevas herramientas y tecnologías.
+- Mejorando mis habilidades de diseño de interfaces y experiencia de usuario.
 
-<div align="center">
+### Áreas de interés
 
-## ✦ TECNOLOGÍAS Y HERRAMIENTAS
-
-### Desarrollo Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,bootstrap,tailwind&theme=dark&perline=7"/>
-
-### Desarrollo Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb&theme=dark&perline=4"/>
-
-### Desarrollo móvil y videojuegos
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark&perline=3"/>
-
-### Herramientas y diseño
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/APIs_REST-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/XAMPP-B388FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Composer-885630?style=flat-square"/>
-<img src="https://img.shields.io/badge/Thunder_Client-FF6FB5?style=flat-square"/>
-
-</div>
+- Frontend Development
+- Backend Development
+- Full Stack Development
+- UI / UX Design
+- Mobile Development
+- Software Engineering
+- Video Game Development
 
 ---
 
-<div align="center">
+## ✦ Tech Stack | Tecnologías
 
-## ✦ PROYECTOS DESTACADOS
+### Frontend Development
 
-*Algunos de los proyectos en los que he trabajado.*
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,bootstrap,tailwind&theme=dark"/>
+</p>
 
-</div>
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
+
+### Mobile & Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark"/>
+</p>
+
+### Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+</p>
+
+**Otras herramientas:** XAMPP, Composer y Thunder Client.
+
+---
+
+## ✦ Featured Projects | Proyectos destacados
 
 <table>
 <tr>
@@ -77,49 +99,62 @@ Actualmente busco continuar fortaleciendo mis habilidades en ingeniería de soft
 
 <h3 align="center">🏥 Salud Vital</h3>
 
-<p align="center">
-<strong>Sistema de Gestión Clínica</strong>
-</p>
+<p align="center"><b>Sistema de Gestión Clínica</b></p>
 
-<p align="center">
 Aplicación web progresiva (PWA) para la gestión de información clínica.
-</p>
 
-- Desarrollo independiente de la aplicación full stack.
-- Diseño de la arquitectura de base de datos MySQL.
-- Desarrollo de módulos de pacientes, consultas, agenda y expedientes médicos.
+**Características:**
+- Gestión de pacientes y consultas.
+- Administración de agenda.
+- Gestión de expedientes médicos.
 - Generación de reportes.
-- Integración de Google Drive para almacenamiento y respaldo de documentos clínicos.
+- Integración de Google Drive para almacenamiento y respaldo de documentos.
 
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+**Tecnologías:**
+
+<p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">💻 CodeBase</h3>
 
-<p align="center">
-<strong>Aplicación móvil educativa</strong>
-</p>
+<p align="center"><b>Aplicación móvil educativa</b></p>
 
-<p align="center">
 Aplicación orientada a facilitar el aprendizaje y la organización de estudiantes de programación.
-</p>
 
-- Diseño de la interfaz de usuario (UI).
-- Diseño y desarrollo del módulo «Mis Metas».
-- Implementación de un tablero de gestión de tareas inspirado en Trello.
+**Características:**
+- Diseño de interfaz de usuario (UI).
+- Módulo «Mis Metas».
+- Tablero de tareas inspirado en Trello.
 - Organización de actividades y objetivos de estudio.
-- Colaboración con el equipo en el desarrollo de la aplicación y sus funcionalidades.
+- Colaboración en el desarrollo de funcionalidades.
 
-<p align="center">
+**Tecnologías:**
+
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">🎮 Mindrot</h3>
+
+<p align="center"><b>Videojuego de terror psicológico y supervivencia</b></p>
+
+Proyecto de desarrollo de videojuegos ambientado en un laboratorio experimental, enfocado en la exploración, los acertijos y la atmósfera de suspenso.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square"/>
 </p>
 
 </td>
@@ -128,13 +163,25 @@ Aplicación orientada a facilitar el aprendizaje y la organización de estudiant
 
 ---
 
+## ✦ GitHub Analytics
+
 <div align="center">
 
-## ✦ FORMACIÓN ACADÉMICA
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&theme=midnight-purple&hide_border=true&title_color=FF6FB5&icon_color=B388FF&text_color=ffffff&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&theme=midnight-purple&hide_border=true&title_color=FF6FB5&text_color=ffffff&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaColonia&theme=midnight-purple&hide_border=true&ring=FF6FB5&fire=B388FF&currStreakLabel=FF6FB5"/>
 
 </div>
 
-**🎓 Licenciatura en Desarrollo y Gestión de Software**
+---
+
+## ✦ Formación académica | Education
+
+**Licenciatura en Desarrollo y Gestión de Software**
 
 Universidad Tecnológica del Poniente
 
@@ -142,7 +189,7 @@ Universidad Tecnológica del Poniente
 
 <br/>
 
-**🎓 Técnico Superior Universitario en Tecnologías de la Información**
+**Técnico Superior Universitario en Tecnologías de la Información**
 
 Área: Desarrollo de Software Multiplataforma
 
@@ -152,58 +199,61 @@ Universidad Tecnológica del Poniente
 
 ---
 
-<div align="center">
+## ✦ Experiencia profesional | Experience
 
-## ✦ EXPERIENCIA PROFESIONAL
+**Practicante de Desarrollo Web**
 
-</div>
-
-**Practicante de Desarrollo Web (Estadías)**
-
-**MAYAM** · Home Office
+MAYAM · Home Office
 
 *Mayo 2025 – Agosto 2025*
 
-- Desarrollo y maquetación de una landing page responsiva utilizando Astro, Tailwind CSS y JavaScript.
-- Implementación de interfaces adaptativas y mejora de la experiencia de usuario.
+- Desarrollo y maquetación de una landing page responsiva con Astro, Tailwind CSS y JavaScript.
+- Implementación de interfaces adaptativas.
 - Revisión de código y pruebas de funcionalidad.
-- Control de versiones y colaboración mediante Git y GitHub.
+- Control de versiones y colaboración con Git y GitHub.
 
 ---
 
-<div align="center">
+## ✦ Certificaciones | Certifications
 
-## ✦ ACTIVIDADES EXTRACURRICULARES
+- Software Architect Mindset Workshop — Dev Senior Code (2026).
+- Introducción a la Ciberseguridad — Cisco Networking Academy (2025).
+- Tu Futuro en IA — Santander Open Academy (2025).
+- TalentU & Microsoft Power BI — Santander Open Academy (2025).
 
-</div>
+---
+
+## ✦ Actividades extracurriculares
 
 **3er Encuentro Nacional Niñas STEM**
 
 Universidad Tecnológica del Poniente · Junio 2026
 
-- Apoyo en la preparación de materiales visuales y acondicionamiento de un stand fotográfico.
-- Colaboración durante las actividades del evento.
-- Organización de una dinámica de ruleta de premios.
-- Registro fotográfico de las actividades.
+- Preparación de materiales visuales y acondicionamiento de un stand fotográfico.
+- Apoyo en la organización de actividades y dinámicas.
+- Registro fotográfico del evento.
 
 ---
 
-<div align="center">
+## ✦ Habilidades | Soft Skills
 
-## ✦ CERTIFICACIONES
-
-</div>
-
-- **Software Architect Mindset Workshop** · Dev Senior Code · Oct 2026
-- **Introducción a la Ciberseguridad** · Cisco Networking Academy · Dic 2025
-- **Tu Futuro en IA** · Santander Open Academy · Dic 2025
-- **TalentU & Microsoft Power BI** · Santander Open Academy · Dic 2025
+- Trabajo en equipo.
+- Comunicación efectiva.
+- Organización.
+- Creatividad.
+- Colaboración.
+- Liderazgo.
+- Atención al detalle.
+- Adaptabilidad.
+- Escucha activa.
 
 ---
 
+## ✦ Contacto | Let's Connect
+
 <div align="center">
 
-## ✦ CONTACTO
+¿Tienes algún proyecto o propuesta de colaboración? ¡Conectemos!
 
 <a href="mailto:luisafernandacolonia@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -213,9 +263,11 @@ Universidad Tecnológica del Poniente · Junio 2026
 <img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-*Siempre aprendiendo, creando y construyendo nuevas ideas.*
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B388FF,100:FF6FB5&height=120&section=footer" width="100%"/>
 
