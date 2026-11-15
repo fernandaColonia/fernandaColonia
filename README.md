@@ -1,8 +1,9 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Web%20Full%20Stack&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=210&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Web%20Full%20Stack%20Junior&descSize=17&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Desarrollo+Frontend+%26+Backend+%F0%9F%92%BB;Aplicaciones+Web+y+M%C3%B3viles;Creando+soluciones+a+trav%C3%A9s+del+c%C3%B3digo+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Frontend+%26+Backend+Development;UI+%2F+UX+%26+Desarrollo+de+Software;Aplicaciones+Web+y+M%C3%B3viles" />
 
 <br/>
 
@@ -19,13 +20,15 @@
 
 </div>
 
-¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora web full stack apasionada por la tecnología y la creación de soluciones digitales.
+¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora web full stack junior.
 
-Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente estudio la **Licenciatura en Desarrollo y Gestión de Software**.
+Soy egresada de **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente estudio la **Licenciatura en Desarrollo y Gestión de Software**.
 
-Desarrollo aplicaciones web con **Laravel, Vue.js, Astro y MySQL**, y apps móviles con **Flutter**. Me enfoco en interfaces responsivas, integración de APIs y código ordenado.
+Cuento con conocimientos en desarrollo de aplicaciones web y móviles utilizando tecnologías como **Laravel, Vue.js, Astro, MySQL y Flutter**.
 
-Busco incorporarme a un equipo donde pueda aportar y seguir creciendo profesionalmente.
+Me interesa el desarrollo de software, la creación de interfaces responsivas y la integración de funcionalidades. Disfruto diseñar y desarrollar proyectos que permitan poner en práctica mis conocimientos y seguir aprendiendo.
+
+Actualmente busco continuar fortaleciendo mis habilidades en ingeniería de software y desarrollo de aplicaciones.
 
 ---
 
@@ -33,17 +36,28 @@ Busco incorporarme a un equipo donde pueda aportar y seguir creciendo profesiona
 
 ## ✦ TECNOLOGÍAS Y HERRAMIENTAS
 
-### Desarrollo web
+### Desarrollo Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,bootstrap,tailwind,php,laravel&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,bootstrap,tailwind&theme=dark&perline=7"/>
 
-### Bases de datos y herramientas
+### Desarrollo Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,trello&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb&theme=dark&perline=4"/>
 
 ### Desarrollo móvil y videojuegos
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark&perline=3"/>
+
+### Herramientas y diseño
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/APIs_REST-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/XAMPP-B388FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Composer-885630?style=flat-square"/>
+<img src="https://img.shields.io/badge/Thunder_Client-FF6FB5?style=flat-square"/>
 
 </div>
 
@@ -52,6 +66,8 @@ Busco incorporarme a un equipo donde pueda aportar y seguir creciendo profesiona
 <div align="center">
 
 ## ✦ PROYECTOS DESTACADOS
+
+*Algunos de los proyectos en los que he trabajado.*
 
 </div>
 
@@ -62,13 +78,18 @@ Busco incorporarme a un equipo donde pueda aportar y seguir creciendo profesiona
 <h3 align="center">🏥 Salud Vital</h3>
 
 <p align="center">
-Sistema de gestión clínica (PWA full stack).
+<strong>Sistema de Gestión Clínica</strong>
 </p>
 
-- Gestión de pacientes, consultas, agenda y expedientes médicos.
+<p align="center">
+Aplicación web progresiva (PWA) para la gestión de información clínica.
+</p>
+
+- Desarrollo independiente de la aplicación full stack.
+- Diseño de la arquitectura de base de datos MySQL.
+- Desarrollo de módulos de pacientes, consultas, agenda y expedientes médicos.
 - Generación de reportes.
-- Respaldo automático de documentos clínicos con la API de Google Drive.
-- Diseño de la base de datos y de la interfaz de usuario.
+- Integración de Google Drive para almacenamiento y respaldo de documentos clínicos.
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -83,35 +104,22 @@ Sistema de gestión clínica (PWA full stack).
 <h3 align="center">💻 CodeBase</h3>
 
 <p align="center">
-Aplicación móvil de apoyo para estudiantes de programación.
+<strong>Aplicación móvil educativa</strong>
 </p>
 
-- Diseño de la interfaz de usuario.
-- Módulo "Mis Metas": tablero de tareas inspirado en Trello, con almacenamiento local.
-- Artículos de estudio mediante API pública.
-- Chat comunitario e inicio de sesión con Google.
+<p align="center">
+Aplicación orientada a facilitar el aprendizaje y la organización de estudiantes de programación.
+</p>
+
+- Diseño de la interfaz de usuario (UI).
+- Diseño y desarrollo del módulo «Mis Metas».
+- Implementación de un tablero de gestión de tareas inspirado en Trello.
+- Organización de actividades y objetivos de estudio.
+- Colaboración con el equipo en el desarrollo de la aplicación y sus funcionalidades.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center">🎮 Mindrot</h3>
-
-<p align="center">
-Videojuego de terror psicológico y supervivencia ambientado en un laboratorio experimental. Incluye exploración, acertijos y elementos de suspenso.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square"/>
 </p>
 
 </td>
@@ -130,7 +138,7 @@ Videojuego de terror psicológico y supervivencia ambientado en un laboratorio e
 
 Universidad Tecnológica del Poniente
 
-*Septiembre 2026 – Actualmente*
+*Septiembre 2025 – Actualmente*
 
 <br/>
 
@@ -140,7 +148,7 @@ Universidad Tecnológica del Poniente
 
 Universidad Tecnológica del Poniente
 
-*Mayo 2023 – Agosto 2026*
+*Septiembre 2023 – Septiembre 2025*
 
 ---
 
@@ -152,20 +160,37 @@ Universidad Tecnológica del Poniente
 
 **Practicante de Desarrollo Web (Estadías)**
 
-**MAYAM** · Home office
+**MAYAM** · Home Office
 
-*Mayo – Agosto 2025*
+*Mayo 2025 – Agosto 2025*
 
-- Desarrollo y maquetación de una landing page responsive con Astro, Tailwind CSS y JavaScript.
+- Desarrollo y maquetación de una landing page responsiva utilizando Astro, Tailwind CSS y JavaScript.
 - Implementación de interfaces adaptativas y mejora de la experiencia de usuario.
 - Revisión de código y pruebas de funcionalidad.
-- Control de versiones y colaboración con Git y GitHub.
+- Control de versiones y colaboración mediante Git y GitHub.
 
 ---
 
 <div align="center">
 
-## ✦ CERTIFICADOS
+## ✦ ACTIVIDADES EXTRACURRICULARES
+
+</div>
+
+**3er Encuentro Nacional Niñas STEM**
+
+Universidad Tecnológica del Poniente · Junio 2026
+
+- Apoyo en la preparación de materiales visuales y acondicionamiento de un stand fotográfico.
+- Colaboración durante las actividades del evento.
+- Organización de una dinámica de ruleta de premios.
+- Registro fotográfico de las actividades.
+
+---
+
+<div align="center">
+
+## ✦ CERTIFICACIONES
 
 </div>
 
@@ -181,10 +206,16 @@ Universidad Tecnológica del Poniente
 ## ✦ CONTACTO
 
 <a href="mailto:luisafernandacolonia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fernandaColonia">
+<img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
+
+*Siempre aprendiendo, creando y construyendo nuevas ideas.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B388FF,100:FF6FB5&height=120&section=footer" width="100%"/>
 
