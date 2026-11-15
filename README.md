@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20de%20Software%20%7C%20Desarrollo%20Web&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,50:B388FF,100:6C63FF&height=220&section=header&text=Luisa%20Fernanda%20Colonia&fontSize=43&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Web%20Full%20Stack&descSize=17&descAlignY=62" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&height=45&lines=Desarrollo+Frontend+%26+Backend+%F0%9F%92%BB;Aplicaciones+Web+y+M%C3%B3viles;Creando+soluciones+a+trav%C3%A9s+del+c%C3%B3digo+%F0%9F%92%9C" />
 
@@ -20,13 +19,13 @@
 
 </div>
 
-¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora de software apasionada por la tecnología y la creación de soluciones digitales.
+¡Hola! Soy **Luisa Fernanda Colonia**, desarrolladora web full stack apasionada por la tecnología y la creación de soluciones digitales.
 
-Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente continúo mi formación profesional en la **Licenciatura en Desarrollo y Gestión de Software**.
+Soy **Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma**, y actualmente estudio la **Licenciatura en Desarrollo y Gestión de Software**.
 
-Cuento con conocimientos en desarrollo de aplicaciones web y móviles, diseño y gestión de bases de datos, programación backend y desarrollo de interfaces de usuario.
+Desarrollo aplicaciones web con **Laravel, Vue.js, Astro y MySQL**, y apps móviles con **Flutter**. Me enfoco en interfaces responsivas, integración de APIs y código ordenado.
 
-Me interesa crear soluciones tecnológicas funcionales, aprender nuevas herramientas y participar en proyectos que me permitan seguir creciendo profesionalmente.
+Busco incorporarme a un equipo donde pueda aportar y seguir creciendo profesionalmente.
 
 ---
 
@@ -36,11 +35,11 @@ Me interesa crear soluciones tecnológicas funcionales, aprender nuevas herramie
 
 ### Desarrollo web
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,astro,html,css,bootstrap&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,bootstrap,tailwind,php,laravel&theme=dark&perline=9"/>
 
 ### Bases de datos y herramientas
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,trello&theme=dark&perline=7"/>
 
 ### Desarrollo móvil y videojuegos
 
@@ -60,16 +59,16 @@ Me interesa crear soluciones tecnológicas funcionales, aprender nuevas herramie
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 SaludVital</h3>
+<h3 align="center">🏥 Salud Vital</h3>
 
 <p align="center">
-Sistema web para la gestión y seguimiento de pacientes.
+Sistema de gestión clínica (PWA full stack).
 </p>
 
-- Administración de pacientes.
-- Registro de consultas e información médica.
-- Organización de expedientes.
-- Operaciones CRUD para la gestión de información.
+- Gestión de pacientes, consultas, agenda y expedientes médicos.
+- Generación de reportes.
+- Respaldo automático de documentos clínicos con la API de Google Drive.
+- Diseño de la base de datos y de la interfaz de usuario.
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -81,16 +80,16 @@ Sistema web para la gestión y seguimiento de pacientes.
 
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Codebase</h3>
+<h3 align="center">💻 CodeBase</h3>
 
 <p align="center">
 Aplicación móvil de apoyo para estudiantes de programación.
 </p>
 
+- Diseño de la interfaz de usuario.
+- Módulo "Mis Metas": tablero de tareas inspirado en Trello, con almacenamiento local.
 - Artículos de estudio mediante API pública.
-- Tablero de metas con almacenamiento local.
-- Chat comunitario en tiempo real.
-- Inicio de sesión con Google.
+- Chat comunitario e inicio de sesión con Google.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -151,13 +150,29 @@ Universidad Tecnológica del Poniente
 
 </div>
 
-**Desarrolladora Junior / Soporte de Software**
+**Practicante de Desarrollo Web (Estadías)**
 
-**MAYAM** · Ciudad de México · Modalidad remota
+**MAYAM** · Home office
 
 *Mayo – Agosto 2025*
 
-Participación en proyectos de desarrollo de software, implementación de interfaces web y mantenimiento de funcionalidades frontend, colaborando con un equipo de desarrollo.
+- Desarrollo y maquetación de una landing page responsive con Astro, Tailwind CSS y JavaScript.
+- Implementación de interfaces adaptativas y mejora de la experiencia de usuario.
+- Revisión de código y pruebas de funcionalidad.
+- Control de versiones y colaboración con Git y GitHub.
+
+---
+
+<div align="center">
+
+## ✦ CERTIFICADOS
+
+</div>
+
+- **Software Architect Mindset Workshop** · Dev Senior Code · Oct 2026
+- **Introducción a la Ciberseguridad** · Cisco Networking Academy · Dic 2025
+- **Tu Futuro en IA** · Santander Open Academy · Dic 2025
+- **TalentU & Microsoft Power BI** · Santander Open Academy · Dic 2025
 
 ---
 
@@ -165,7 +180,7 @@ Participación en proyectos de desarrollo de software, implementación de interf
 
 ## ✦ CONTACTO
 
-<a href="mailto:fernandacoloniamay@gmail.com">
+<a href="mailto:luisafernandacolonia@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
