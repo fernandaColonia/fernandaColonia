@@ -45,13 +45,14 @@ Me interesa el desarrollo de software, la creación de interfaces responsivas y 
 
 ### Áreas de interés
 
+
+
 - Frontend Development
 - Backend Development
 - Full Stack Development
 - UI / UX Design
-- Mobile Development
 - Software Engineering
-- Video Game Development
+- Web Development
 
 ---
 
