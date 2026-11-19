@@ -1,218 +1,260 @@
-&#x20;\<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:252525,100:555555&height=220&section=header&text=LUISA%20FERNANDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=COLONIA%20MAY%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descColor=cccccc&descAlignY=58](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,50:252525,100:555555\&height=220\&section=header\&text=LUISA%20FERNANDA\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=COLONIA%20MAY%20%7C%20SOFTWARE%20DEVELOPER\&descSize=15\&descColor=cccccc\&descAlignY=58)" width="100%"/>
+<!-- ═════════════════════════════════════════════ -->
+<!-- PORTADA -->
+<!-- ═════════════════════════════════════════════ -->
 
-# LUISA FERNANDA COLONIA MAY
+<div align="center">
 
-**Junior Full Stack Developer · Software Development**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,35:39343F,70:B9A7D0,100:F0B6D5&height=220&section=header&text=¡BIENVENIDOS!&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=LUISA%20FERNANDA%20COLONIA%20MAY&descSize=16&descColor=FFFFFF&descAlignY=60"/>
 
-*Construyendo soluciones digitales, combinando tecnología, funcionalidad y creatividad.*
+<br>
 
-\
+### DESARROLLADORA WEB FULL STACK JUNIOR
 
+<a href="https://github.com/fernandaColonia">
+<img src="https://img.shields.io/badge/GITHUB-25232B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:luisafernandacolonia@gmail.com">
+<img src="https://img.shields.io/badge/CORREO-25232B?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-Yucatán, México
+<br><br>
 
-\</div>
+<sub>✦ DESARROLLO WEB · TECNOLOGÍA · SOLUCIONES DIGITALES ✦</sub>
 
----
+</div>
 
-## 01 / ABOUT ME
+<br>
 
-Egresada de **Técnico Superior Universitario en Tecnologías de la Información** y estudiante de la **Licenciatura en Desarrollo y Gestión de Software**.
+<!-- ═════════════════════════════════════════════ -->
+<!-- SOBRE MÍ -->
+<!-- ═════════════════════════════════════════════ -->
 
-Me interesa el desarrollo de aplicaciones web y móviles, la creación de interfaces funcionales y el diseño de soluciones digitales. Trabajo con tecnologías como Laravel, Vue.js, Astro, MySQL y Flutter, mientras continúo fortaleciendo mis conocimientos en ingeniería de software y desarrollo de videojuegos.
+<div align="center">
 
----
+## ✦ SOBRE MÍ ✦
 
-## 02 / TECHNOLOGIES
+</div>
 
-**FRONTEND**
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap&theme=light](https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap\&theme=light)" />
-\</p>
+¡Hola! Soy **Luisa Fernanda Colonia May**, desarrolladora web Full Stack Junior.
 
-`HTML` · `CSS` · `JavaScript` · `Vue.js` · `Astro` · `Tailwind CSS` · `Bootstrap`
+Soy egresada del Técnico Superior Universitario en Tecnologías de la Información y actualmente estudio la Licenciatura en Ingeniería en Desarrollo y Gestión de Software.
 
-**BACKEND & DATABASES**
+Cuento con conocimientos en desarrollo web y móvil utilizando tecnologías como Laravel, Vue.js, Astro, MySQL y Flutter.
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=php,laravel,mysql,mongodb&theme=light](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb\&theme=light)" />
-\</p>
+Me interesa crear soluciones funcionales, desarrollar interfaces responsivas y continuar fortaleciendo mis habilidades en ingeniería de software.
 
-`PHP` · `Laravel` · `APIs REST` · `MySQL` · `MongoDB`
+</td>
+<td width="32%" align="center" valign="middle">
 
-**MOBILE & GAME DEVELOPMENT**
+<img src="https://img.shields.io/badge/DESARROLLO%20WEB-B9A7D0?style=for-the-badge&labelColor=25232B">
+<br><br>
+<img src="https://img.shields.io/badge/DESARROLLO%20MÓVIL-E6A9C7?style=for-the-badge&labelColor=25232B">
+<br><br>
+<img src="https://img.shields.io/badge/DISEÑO%20DE%20INTERFACES-AAA0C8?style=for-the-badge&labelColor=25232B">
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=flutter,dart,godot&theme=light](https://skillicons.dev/icons?i=flutter,dart,godot\&theme=light)" />
-\</p>
+</td>
+</tr>
+</table>
 
-`Flutter` · `Dart` · `Godot` · `GDScript`
+<br>
 
-**TOOLS & WORKFLOW**
+<!-- ═════════════════════════════════════════════ -->
+<!-- HABILIDADES -->
+<!-- ═════════════════════════════════════════════ -->
 
-\<p> \<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=light](https://skillicons.dev/icons?i=git,github,vscode\&theme=light)" /> \</p>
+<div align="center">
 
-`Git` · `GitHub` · `Visual Studio Code` · `XAMPP` · `Composer` · `Thunder Client`
+## ✦ MIS HABILIDADES ✦
 
----
+<sub>TECNOLOGÍAS Y HERRAMIENTAS</sub>
 
-## 03 / FEATURED PROJECTS
+<br><br>
 
-### WEB DEVELOPMENT
+</div>
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-\<h3>01. Salud Vital\</h3>
+### 🎨 Desarrollo Frontend
 
-**Sistema de Gestión Clínica**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-Sistema web PWA orientado a la administración de pacientes, categorías y documentos clínicos.
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
 
-**Tecnologías**
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ⚙️ Desarrollo Backend
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+<br><br>
+
+### 🗄️ Bases de datos
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+
+### 📱 Desarrollo móvil
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
+</td>
+<td valign="top" align="center">
+
+### 🎮 Desarrollo de videojuegos
+
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🛠️ Herramientas y control de versiones
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═════════════════════════════════════════════ -->
+<!-- PROYECTOS -->
+<!-- ═════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✦ PROYECTOS DESTACADOS ✦
+
+<sub>PROYECTOS EN LOS QUE HE PARTICIPADO Y DESARROLLADO</sub>
+
+<br><br>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌸 SALUD VITAL
+
+<img src="https://img.shields.io/badge/PROYECTO%20FULL%20STACK-B9A7D0?style=flat-square&labelColor=25232B">
+
+</div>
+
+Sistema web de gestión clínica desarrollado como una PWA para administrar pacientes, categorías y documentos clínicos.
+
+**Mi participación:**
+
+- Diseñé y desarrollé el sistema de forma independiente.
+- Realicé el modelado de la base de datos.
+- Desarrollé las interfaces y funcionalidades del sistema.
+- Integré Google Drive API para almacenar y respaldar documentos clínicos.
+
+**Tecnologías:**
 
 `Laravel` `PHP` `MySQL` `PWA` `Google Drive API`
 
-- Desarrollo full stack independiente.
-- Modelado de base de datos.
-- Integración con Google Drive para almacenamiento y respaldo de documentos clínicos.
+</td>
+<td width="50%" valign="top">
 
-\</td>
-\<td width="50%" valign="top">
+<div align="center">
 
-\<h3>02. JobHub\</h3>
+### ✧ JOBHUB
 
-**Plataforma de Contratación de Servicios**
+<img src="https://img.shields.io/badge/PLATAFORMA%20WEB%20Y%20MÓVIL-E6A9C7?style=flat-square&labelColor=25232B">
 
-Aplicación móvil y plataforma web que conecta a personas que necesitan servicios con trabajadores independientes.
+</div>
 
-**Tecnologías**
+Plataforma de contratación de servicios que conecta a personas que solicitan servicios con trabajadores independientes.
 
-`Flutter` `Dart` `Laravel` `MySQL` `APIs REST`
+**Mi participación:**
 
-- Desarrollo del dashboard de Superadministración móvil.
-- Consumo de APIs REST.
-- Desarrollo del módulo Centro de Ayuda web.
-- Trabajo colaborativo con Git y GitHub.
+- Desarrollé la vista del dashboard de Superadministración en la aplicación móvil.
+- Consumí APIs REST para consultar y mostrar los datos del dashboard.
+- Colaboré en el repositorio móvil utilizando Git y GitHub.
+- Desarrollé el módulo Centro de Ayuda en la versión web.
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+**Tecnologías:**
 
-\<h3>03. CodeBase\</h3>
+`Flutter` `Dart` `Laravel` `MySQL` `GoRouter` `APIs REST`
 
-**Aplicación para Estudiantes de Programación**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-Aplicación móvil para organizar actividades y metas de aprendizaje.
+<div align="center">
 
-**Tecnologías**
+### 💜 CODEBASE
+
+<img src="https://img.shields.io/badge/APLICACIÓN%20MÓVIL-AAA0C8?style=flat-square&labelColor=25232B">
+
+</div>
+
+Aplicación móvil dirigida a estudiantes del área de tecnologías para organizar sus actividades y metas de aprendizaje.
+
+**Mi participación:**
+
+- Propuse el diseño de las interfaces de la aplicación, implementado en Flutter por el equipo.
+- Diseñé y desarrollé el módulo **Mis Metas**, un tablero de tareas inspirado en herramientas de gestión de proyectos como Trello.
+- Colaboré con el equipo en el desarrollo de la aplicación y sus funcionalidades.
+
+**Tecnologías:**
 
 `Flutter` `Dart`
 
-- Diseño de interfaces de usuario.
-- Desarrollo del módulo Mis Metas.
-- Tablero de tareas inspirado en herramientas de gestión de proyectos.
+</td>
+</tr>
+</table>
 
-\</td>
-\<td width="50%" valign="top">
+<br>
 
-\<h3>04. Luna y el Bosque Mágico\</h3>
+<!-- ═════════════════════════════════════════════ -->
+<!-- AGRADECIMIENTO -->
+<!-- ═════════════════════════════════════════════ -->
 
-**Videojuego Educativo**
+<div align="center">
 
-Videojuego dirigido al público infantil que busca fomentar la conciencia ambiental y el cuidado de los bosques mediante una experiencia interactiva.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:25232B,50:55465F,100:B9A7D0&height=3">
 
-**Tecnologías**
+<br>
 
-`Godot 4` `GDScript` `3D`
+## ✧ ¡GRACIAS POR VISITAR MI PERFIL! ✧
 
-[Ver repositorio →](https://github.com/fernandaColonia/luna-bosque-magico)
+<sub>Gracias por conocer un poco sobre mi trabajo y mis proyectos.</sub>
 
-\</td> \</tr> \<tr> \<td colspan="2" valign="top">
+<br><br>
 
-\<h3>05. MINDROT\</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B6D5,50:B9A7D0,100:25232B&height=130&section=footer">
 
-**Videojuego de Terror Psicológico**
-
-Proyecto de desarrollo de videojuegos en Godot, con escenarios 3D, ambientación de terror y diseño de niveles.
-
-**Tecnologías**
-
-`Godot` `GDScript` `3D`
-
-[Ver repositorio →](https://github.com/fernandaColonia/MINDROT)
-
-\</td>
-\</tr>
-\</table>
-
----
-
-## 04 / PROFESSIONAL EXPERIENCE
-
-**Estadías Profesionales — MAYAM**
-
-*May 2025 – August 2025 · Home Office*
-
-- Desarrollo y maquetación de una landing page responsiva con Astro, Tailwind CSS y JavaScript.
-- Colaboración en revisión de código y pruebas de funcionamiento.
-- Uso de Git y GitHub para control de versiones y trabajo colaborativo.
-
----
-
-## 05 / EDUCATION
-
-**Licenciatura en Desarrollo y Gestión de Software**
-Universidad Tecnológica del Poniente
-*Septiembre 2025 – Actualidad*
-
-**Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**
-Universidad Tecnológica del Poniente
-*Septiembre 2023 – Septiembre 2025*
-
----
-
-## 06 / CERTIFICATIONS
-
-- Google Cybersecurity Professional Certificate — Google.
-- Software Architect Mindset Workshop — Dev Senior Code.
-- Tu Futuro en IA — Santander Open Academy.
-- TalentU & Microsoft Power BI — Santander Open Academy.
-- Introducción a la Ciberseguridad — Cisco Networking Academy.
-
----
-
-## 07 / SOFT SKILLS
-
-`Teamwork` · `Effective Communication` · `Organization` · `Continuous Learning` · `Attention to Detail`
-
----
-
-## 08 / GITHUB ACTIVITY
-
-\<div align="center">
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=fernandaColonia\&show_icons=true\&hide_border=true\&title_color=ffffff\&icon_color=aaaaaa\&text_color=c9d1d9\&bg_color=0d1117)"/>
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia\&layout=compact\&hide_border=true\&title_color=ffffff\&text_color=c9d1d9\&bg_color=0d1117)"/>
-
-\</div>
-
----
-
-\<div align="center">
-
-**LET'S BUILD SOMETHING GREAT.**
-
-*Siempre aprendiendo. Siempre creando.*
-
-
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:000000&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:555555,100:000000\&height=110\&section=footer)" width="100%"/>
-
-\</div>
+</div>
