@@ -14,100 +14,79 @@
 <img src="https://img.shields.io/badge/Yucatán,_México-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Universidad_Tecnológica_del_Poniente-111111?style=flat-square"/>
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">SOBRE MÍ</h2>
+<h2>SOBRE MÍ</h2>
 
-<p align="center">
-Egresada de <b>TSU en Tecnologías de la Información</b> y estudiante de la <b>Licenciatura en Desarrollo y Gestión de Software</b>.<br/>
-Con conocimientos en desarrollo web y móvil utilizando <b>Laravel, Vue.js, Astro, MySQL y Flutter</b>.<br/>
-Interesada en crear soluciones funcionales, interfaces responsivas y continuar fortaleciendo mis habilidades en desarrollo de software.
-</p>
+Desarrolladora web full stack junior.<br/>
+Estudio la <b>Licenciatura en Desarrollo y Gestión de Software</b>.<br/>
+Creo aplicaciones web y móviles con <b>Laravel, Vue.js, Astro, MySQL y Flutter</b>.
 
 <br/>
 
-<h2 align="center">STACK</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap,php,laravel,mysql,mongodb,flutter,dart,godot,git,github,vscode,figma&theme=dark&perline=9" alt="Tecnologías"/>
-</p>
-
-<p align="center"><sub>También: APIs REST · XAMPP · Composer · Thunder Client</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">PROYECTOS</h2>
+<h2>STACK</h2>
+
+<p align="center"><sub><b>FRONTEND</b></sub><br/><img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap&theme=dark"/></p>
+
+<p align="center"><sub><b>BACKEND</b></sub><br/><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark"/></p>
+
+<p align="center"><sub><b>BASES DE DATOS</b></sub><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/></p>
+
+<p align="center"><sub><b>MÓVIL & JUEGOS</b></sub><br/><img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark"/></p>
+
+<p align="center"><sub><b>HERRAMIENTAS</b></sub><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/></p>
+
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
+
+<br/>
+
+<h2>PROYECTOS</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3 align="center">Salud Vital</h3>
-<p align="center"><b>Sistema de gestión clínica</b></p>
+<h3>Salud Vital</h3>
+<sub>Sistema de gestión clínica · PWA</sub>
 
-PWA full stack diseñada y desarrollada de forma independiente, desde el modelado de la base de datos hasta las interfaces.
-
-- Gestión de pacientes, consultas, agenda y expedientes.
-- Generación de reportes.
-- Integración con la API de Google Drive para almacenar y respaldar documentos clínicos.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3 align="center">JobHub</h3>
-<p align="center"><b>Plataforma de contratación de servicios</b></p>
+<h3>JobHub</h3>
+<sub>Contratación de servicios · App móvil</sub>
 
-Plataforma móvil que conecta a personas que solicitan servicios con trabajadores independientes.
-
-- Dashboard de Superadmin en la app móvil, basado en la versión web.
-- Consumo de APIs REST para mostrar datos del servidor.
-- Módulo «Centro de ayuda» en la versión web.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,mysql&theme=dark"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3 align="center">CodeBase</h3>
-<p align="center"><b>App móvil para estudiantes de programación</b></p>
+<h3>CodeBase</h3>
+<sub>App para estudiantes de programación</sub>
 
-Para que estudiantes del área de tecnologías organicen sus actividades y metas de aprendizaje.
-
-- Propuesta del diseño de las interfaces.
-- Módulo «Mis Metas»: tablero de tareas inspirado en Trello.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3 align="center">Mindrot</h3>
-<p align="center"><b>Videojuego de terror psicológico y supervivencia</b></p>
+<h3>Mindrot</h3>
+<sub>Videojuego de terror psicológico</sub>
 
-Ambientado en un laboratorio experimental, enfocado en la exploración, los acertijos y la atmósfera de suspenso.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Godot-111111?style=flat-square&logo=godotengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDScript-111111?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=godot&theme=dark"/>
 
 </td>
 </tr>
@@ -115,66 +94,34 @@ Ambientado en un laboratorio experimental, enfocado en la exploración, los acer
 
 <br/>
 
-<h2 align="center">EXPERIENCIA Y FORMACIÓN</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Experiencia</h3>
-
-**Estadías profesionales**<br/>
-MAYAM · Home Office<br/>
-<sub>Mayo 2025 – Agosto 2025</sub>
-
-- Desarrollo y maquetación de una landing page responsiva con Astro, Tailwind CSS y JavaScript.
-- Revisión de código y pruebas de funcionamiento.
-- Git y GitHub para control de versiones y trabajo colaborativo.
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Formación</h3>
-
-**Licenciatura en Desarrollo y Gestión de Software**<br/>
-Universidad Tecnológica del Poniente<br/>
-<sub>Septiembre 2025 – Actualmente</sub>
-
-**TSU en Tecnologías de la Información**<br/>
-Desarrollo de Software Multiplataforma<br/>
-Universidad Tecnológica del Poniente<br/>
-<sub>Septiembre 2023 – Septiembre 2025</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">CERTIFICACIONES</h2>
+<h2>CERTIFICACIONES</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-Google_·_Abr_2026-111111?style=for-the-badge&logo=google&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Software_Architect_Mindset_Workshop-Dev_Senior_Code_·_Oct_2026-111111?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/TalentU_&_Microsoft_Power_BI-Santander_Open_Academy_·_Dic_2025-111111?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Tu_Futuro_en_IA-Santander_Open_Academy_·_Dic_2025-111111?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Introducción_a_la_Ciberseguridad-Cisco_Networking_Academy_·_Dic_2025-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Google-Cybersecurity-111111?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Ciberseguridad-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Dev_Senior_Code-Software_Architect_Mindset-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Santander-Power_BI-111111?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">GITHUB</h2>
+<h2>GITHUB</h2>
 
-<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0D1117&border_radius=20"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0D1117&border_radius=20"/>
-</p>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
 
 <br/>
-
-<div align="center">
-
-<h2>CONTACTO</h2>
 
 ¿Tienes algún proyecto o propuesta de colaboración? ¡Conectemos!
 
