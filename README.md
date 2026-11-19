@@ -1,132 +1,218 @@
-<div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=230&section=header&text=Luisa%20Fernanda%20Colonia%20May&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Software%20Engineering%20Student%20%7C%20Web%20Development&descSize=15&descAlignY=60" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:252525,100:555555&height=220&section=header&text=LUISA%20FERNANDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=COLONIA%20MAY%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descColor=cccccc&descAlignY=58](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,50:252525,100:555555\&height=220\&section=header\&text=LUISA%20FERNANDA\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=COLONIA%20MAY%20%7C%20SOFTWARE%20DEVELOPER\&descSize=15\&descColor=cccccc\&descAlignY=58)" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7D8590&center=true&vCenter=true&width=700&height=45&lines=Frontend+%26+Backend+Development;UI%2FUX+%26+Software+Engineering;Web+%26+Mobile+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Frontend y Backend"/>
+# LUISA FERNANDA COLONIA MAY
 
-<br/>
+**Junior Full Stack Developer · Software Development**
 
-<a href="mailto:luisafernandacolonia@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/fernandaColonia"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+*Construyendo soluciones digitales, combinando tecnología, funcionalidad y creatividad.*
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Yucatán,_México-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Universidad_Tecnológica_del_Poniente-111111?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
-
-<br/>
-
-<h2>SOBRE MÍ</h2>
-
-Desarrolladora web full stack junior.<br/>
-Estudio la <b>Licenciatura en Desarrollo y Gestión de Software</b>.<br/>
-Creo aplicaciones web y móviles con <b>Laravel, Vue.js, Astro, MySQL y Flutter</b>.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
-
-<br/>
-
-<h2>STACK</h2>
-
-<p align="center"><sub><b>FRONTEND</b></sub><br/><img src="https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap&theme=dark"/></p>
-
-<p align="center"><sub><b>BACKEND</b></sub><br/><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark"/></p>
-
-<p align="center"><sub><b>BASES DE DATOS</b></sub><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/></p>
-
-<p align="center"><sub><b>MÓVIL & JUEGOS</b></sub><br/><img src="https://skillicons.dev/icons?i=flutter,dart,godot&theme=dark"/></p>
-
-<p align="center"><sub><b>HERRAMIENTAS</b></sub><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/></p>
+\
 
 
-<br/>
+Yucatán, México
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
+\</div>
 
-<br/>
+---
 
-<h2>PROYECTOS</h2>
+## 01 / ABOUT ME
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
+Egresada de **Técnico Superior Universitario en Tecnologías de la Información** y estudiante de la **Licenciatura en Desarrollo y Gestión de Software**.
 
-<h3>Salud Vital</h3>
-<sub>Sistema de gestión clínica · PWA</sub>
+Me interesa el desarrollo de aplicaciones web y móviles, la creación de interfaces funcionales y el diseño de soluciones digitales. Trabajo con tecnologías como Laravel, Vue.js, Astro, MySQL y Flutter, mientras continúo fortaleciendo mis conocimientos en ingeniería de software y desarrollo de videojuegos.
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark"/>
+---
 
-</td>
-<td width="50%" align="center" valign="middle">
+## 02 / TECHNOLOGIES
 
-<h3>JobHub</h3>
-<sub>Contratación de servicios · App móvil</sub>
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,mysql&theme=dark"/>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap&theme=light](https://skillicons.dev/icons?i=html,css,js,vue,astro,tailwind,bootstrap\&theme=light)" />
+\</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
+`HTML` · `CSS` · `JavaScript` · `Vue.js` · `Astro` · `Tailwind CSS` · `Bootstrap`
 
-<h3>CodeBase</h3>
-<sub>App para estudiantes de programación</sub>
+**BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=php,laravel,mysql,mongodb&theme=light](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb\&theme=light)" />
+\</p>
 
-</td>
-<td width="50%" align="center" valign="middle">
+`PHP` · `Laravel` · `APIs REST` · `MySQL` · `MongoDB`
 
-<h3>Mindrot</h3>
-<sub>Videojuego de terror psicológico</sub>
+**MOBILE & GAME DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=godot&theme=dark"/>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=flutter,dart,godot&theme=light](https://skillicons.dev/icons?i=flutter,dart,godot\&theme=light)" />
+\</p>
 
-</td>
-</tr>
-</table>
+`Flutter` · `Dart` · `Godot` · `GDScript`
 
-<br/>
+**TOOLS & WORKFLOW**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
+\<p> \<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=light](https://skillicons.dev/icons?i=git,github,vscode\&theme=light)" /> \</p>
 
-<br/>
+`Git` · `GitHub` · `Visual Studio Code` · `XAMPP` · `Composer` · `Thunder Client`
 
-<h2>CERTIFICACIONES</h2>
+---
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity-111111?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Ciberseguridad-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Dev_Senior_Code-Software_Architect_Mindset-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Santander-Power_BI-111111?style=for-the-badge"/>
+## 03 / FEATURED PROJECTS
 
-<br/><br/>
+### WEB DEVELOPMENT
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-<br/>
+\<h3>01. Salud Vital\</h3>
 
-<h2>GITHUB</h2>
+**Sistema de Gestión Clínica**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0D1117&border_radius=20"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0D1117&border_radius=20"/>
+Sistema web PWA orientado a la administración de pacientes, categorías y documentos clínicos.
 
-<br/><br/>
+**Tecnologías**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=2" width="100%"/>
+`Laravel` `PHP` `MySQL` `PWA` `Google Drive API`
 
-<br/>
+- Desarrollo full stack independiente.
+- Modelado de base de datos.
+- Integración con Google Drive para almacenamiento y respaldo de documentos clínicos.
 
-¿Tienes algún proyecto o propuesta de colaboración? ¡Conectemos!
+\</td>
+\<td width="50%" valign="top">
 
-<a href="mailto:luisafernandacolonia@gmail.com"><img src="https://img.shields.io/badge/luisafernandacolonia@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+\<h3>02. JobHub\</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" width="100%"/>
+**Plataforma de Contratación de Servicios**
 
-</div>
+Aplicación móvil y plataforma web que conecta a personas que necesitan servicios con trabajadores independientes.
+
+**Tecnologías**
+
+`Flutter` `Dart` `Laravel` `MySQL` `APIs REST`
+
+- Desarrollo del dashboard de Superadministración móvil.
+- Consumo de APIs REST.
+- Desarrollo del módulo Centro de Ayuda web.
+- Trabajo colaborativo con Git y GitHub.
+
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
+
+\<h3>03. CodeBase\</h3>
+
+**Aplicación para Estudiantes de Programación**
+
+Aplicación móvil para organizar actividades y metas de aprendizaje.
+
+**Tecnologías**
+
+`Flutter` `Dart`
+
+- Diseño de interfaces de usuario.
+- Desarrollo del módulo Mis Metas.
+- Tablero de tareas inspirado en herramientas de gestión de proyectos.
+
+\</td>
+\<td width="50%" valign="top">
+
+\<h3>04. Luna y el Bosque Mágico\</h3>
+
+**Videojuego Educativo**
+
+Videojuego dirigido al público infantil que busca fomentar la conciencia ambiental y el cuidado de los bosques mediante una experiencia interactiva.
+
+**Tecnologías**
+
+`Godot 4` `GDScript` `3D`
+
+[Ver repositorio →](https://github.com/fernandaColonia/luna-bosque-magico)
+
+\</td> \</tr> \<tr> \<td colspan="2" valign="top">
+
+\<h3>05. MINDROT\</h3>
+
+**Videojuego de Terror Psicológico**
+
+Proyecto de desarrollo de videojuegos en Godot, con escenarios 3D, ambientación de terror y diseño de niveles.
+
+**Tecnologías**
+
+`Godot` `GDScript` `3D`
+
+[Ver repositorio →](https://github.com/fernandaColonia/MINDROT)
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 04 / PROFESSIONAL EXPERIENCE
+
+**Estadías Profesionales — MAYAM**
+
+*May 2025 – August 2025 · Home Office*
+
+- Desarrollo y maquetación de una landing page responsiva con Astro, Tailwind CSS y JavaScript.
+- Colaboración en revisión de código y pruebas de funcionamiento.
+- Uso de Git y GitHub para control de versiones y trabajo colaborativo.
+
+---
+
+## 05 / EDUCATION
+
+**Licenciatura en Desarrollo y Gestión de Software**
+Universidad Tecnológica del Poniente
+*Septiembre 2025 – Actualidad*
+
+**Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**
+Universidad Tecnológica del Poniente
+*Septiembre 2023 – Septiembre 2025*
+
+---
+
+## 06 / CERTIFICATIONS
+
+- Google Cybersecurity Professional Certificate — Google.
+- Software Architect Mindset Workshop — Dev Senior Code.
+- Tu Futuro en IA — Santander Open Academy.
+- TalentU & Microsoft Power BI — Santander Open Academy.
+- Introducción a la Ciberseguridad — Cisco Networking Academy.
+
+---
+
+## 07 / SOFT SKILLS
+
+`Teamwork` · `Effective Communication` · `Organization` · `Continuous Learning` · `Attention to Detail`
+
+---
+
+## 08 / GITHUB ACTIVITY
+
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=fernandaColonia&show_icons=true&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=fernandaColonia\&show_icons=true\&hide_border=true\&title_color=ffffff\&icon_color=aaaaaa\&text_color=c9d1d9\&bg_color=0d1117)"/>
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaColonia\&layout=compact\&hide_border=true\&title_color=ffffff\&text_color=c9d1d9\&bg_color=0d1117)"/>
+
+\</div>
+
+---
+
+\<div align="center">
+
+**LET'S BUILD SOMETHING GREAT.**
+
+*Siempre aprendiendo. Siempre creando.*
+
+
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:000000&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:555555,100:000000\&height=110\&section=footer)" width="100%"/>
+
+\</div>
